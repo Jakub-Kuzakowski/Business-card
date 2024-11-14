@@ -36,7 +36,10 @@ body{
     width: 790px;
     float: left;
     text-align: center;
-    font-size: 26px;
+    font-size: 28px;
+    font-family: "Oooh Baby", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
 
 #linki{
@@ -74,7 +77,11 @@ body{
     margin-left: 50px;
     margin-right: 50px;
     margin-bottom: 10px;
-    font-size: 14px;
+    font-size: 13px;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
 
 #footer{
