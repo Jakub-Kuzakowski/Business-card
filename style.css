@@ -12,7 +12,7 @@ body{
     margin-right: 100px;
     margin-left: 100px;
     margin-bottom: 100px;
-    background-color: #ffffff9c;
+    background-color: #ffffffb7;
     border: 2px solid black;
     border-radius: 100px;
 }
@@ -36,6 +36,7 @@ body{
     width: 790px;
     float: left;
     text-align: center;
+    font-size: 26px;
 }
 
 #linki{
@@ -44,15 +45,26 @@ body{
     float: left;
 }
 
-.link_holder{
+#link_holder_up{
     height: 100px;
     width: 395px;
+}
+
+#link_holder_down{
+    height: 98px;
+    width: 393px;
+    text-align: center;
+    display: grid;
+    place-items: center;
+    font-size: 45px;
 }
 
 .link_holder_inside{
     height: 100px;
     width: 197px;
     float: left;
+    display: grid;
+    place-items: center;
 }
 
 #main{
@@ -62,11 +74,14 @@ body{
     margin-left: 50px;
     margin-right: 50px;
     margin-bottom: 10px;
+    font-size: 14px;
 }
 
 #footer{
     width: 1580px;
     height: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .image_holder{
@@ -75,4 +90,22 @@ body{
     float: left;
 }
 
+img{
+    height: 100px;
+    width: 100px;
+}
 
+a{
+	color:#000000;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #000000;
+	text-decoration: none;
+}
+
+a:visited{
+	color: #000000;
+	text-decoration: none;
+}
