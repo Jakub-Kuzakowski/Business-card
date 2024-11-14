@@ -1,0 +1,78 @@
+body{
+    width: 1880px;;
+    height: 800px;
+    background-image: url(image/pexels-pixabay-461940.jpg);
+    background-size: 100% auto;
+}
+
+#container{
+    height: 800px;
+    width: 1680px;
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    background-color: #ffffff9c;
+    border: 2px solid black;
+    border-radius: 100px;
+}
+
+#header{
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-left: 50px;
+    width: 1580px;
+    height: 200px;
+}
+
+#zdjecie{
+    height: 200px;
+    width: 395px;
+    float: left;
+}
+
+#naglowek{
+    height: 200px;
+    width: 790px;
+    float: left;
+    text-align: center;
+}
+
+#linki{
+    height: 200px;
+    width: 395px;
+    float: left;
+}
+
+.link_holder{
+    height: 100px;
+    width: 395px;
+}
+
+.link_holder_inside{
+    height: 100px;
+    width: 197px;
+    float: left;
+}
+
+#main{
+    width: 1580px;
+    height: 440px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+
+#footer{
+    width: 1580px;
+    height: 100px;
+}
+
+.image_holder{
+    width: 158px;
+    height: 100px;
+    float: left;
+}
+
+
